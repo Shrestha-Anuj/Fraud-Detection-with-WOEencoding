@@ -6,3 +6,6 @@ Download both the training and testing data from url; "https://www.kaggle.com/da
 **fraudTrain.csv
 fraudTest.csv**
 
+# References
+Bhaskar Boruah (https://www.kaggle.com/bhaskarboruah)
+Kartik Shenoy (https://www.kaggle.com/kartik2112)
