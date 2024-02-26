@@ -1,0 +1,99 @@
+<mxfile host="app.diagrams.net" modified="2024-02-25T13:43:34.288Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="GSefu3mZz322Mz_e_dr1" scale="1" border="0" version="23.1.6" type="device">
+  <diagram name="Page-1" id="cGnaJzbifB82S2sVrF5C">
+    <mxGraphModel dx="1050" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Cy0xGwHFJScTUbKUyNJD-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="e0LHFHKpZSTuLWy_Eu2I-1" target="Cy0xGwHFJScTUbKUyNJD-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="900" y="142" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cy0xGwHFJScTUbKUyNJD-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="e0LHFHKpZSTuLWy_Eu2I-1" target="Cy0xGwHFJScTUbKUyNJD-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e0LHFHKpZSTuLWy_Eu2I-1" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Transaction Dataset&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="417" y="12" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cy0xGwHFJScTUbKUyNJD-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="e0LHFHKpZSTuLWy_Eu2I-2" target="e0LHFHKpZSTuLWy_Eu2I-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e0LHFHKpZSTuLWy_Eu2I-2" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Data &lt;br&gt;Preprocessing&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="417" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cy0xGwHFJScTUbKUyNJD-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="e0LHFHKpZSTuLWy_Eu2I-9" target="e0LHFHKpZSTuLWy_Eu2I-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="820" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e0LHFHKpZSTuLWy_Eu2I-9" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Model Validation&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="760" y="380.8399999999999" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e0LHFHKpZSTuLWy_Eu2I-10" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Comparative Analysis&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="376" y="520" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e0LHFHKpZSTuLWy_Eu2I-21" value="" style="group" parent="1" connectable="0" vertex="1">
+          <mxGeometry x="50" y="170" width="650" height="287" as="geometry" />
+        </mxCell>
+        <mxCell id="Cy0xGwHFJScTUbKUyNJD-17" value="" style="group" parent="e0LHFHKpZSTuLWy_Eu2I-21" connectable="0" vertex="1">
+          <mxGeometry x="220" y="175" width="410" height="120.83999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="Cy0xGwHFJScTUbKUyNJD-18" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Models&lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="Cy0xGwHFJScTUbKUyNJD-17" vertex="1">
+          <mxGeometry y="10.839999999999975" width="410" height="110.00000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="Cy0xGwHFJScTUbKUyNJD-19" value="&lt;font face=&quot;Times New Roman&quot;&gt;Decision Tree&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="Cy0xGwHFJScTUbKUyNJD-17" vertex="1">
+          <mxGeometry x="10" y="54" width="120" height="51.67" as="geometry" />
+        </mxCell>
+        <mxCell id="Cy0xGwHFJScTUbKUyNJD-20" value="&lt;font face=&quot;Times New Roman&quot;&gt;Logistic Regression&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="Cy0xGwHFJScTUbKUyNJD-17" vertex="1">
+          <mxGeometry x="141" y="54" width="129" height="51.67" as="geometry" />
+        </mxCell>
+        <mxCell id="Cy0xGwHFJScTUbKUyNJD-21" value="&lt;font face=&quot;Times New Roman&quot;&gt;Random Forest&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="Cy0xGwHFJScTUbKUyNJD-17" vertex="1">
+          <mxGeometry x="281" y="54" width="120" height="51.67" as="geometry" />
+        </mxCell>
+        <mxCell id="Cy0xGwHFJScTUbKUyNJD-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Cy0xGwHFJScTUbKUyNJD-1" target="Cy0xGwHFJScTUbKUyNJD-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cy0xGwHFJScTUbKUyNJD-1" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Testing Dataset&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="760" y="107" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cy0xGwHFJScTUbKUyNJD-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Cy0xGwHFJScTUbKUyNJD-2" target="e0LHFHKpZSTuLWy_Eu2I-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cy0xGwHFJScTUbKUyNJD-2" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Training Dataset&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="417" y="107" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cy0xGwHFJScTUbKUyNJD-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Cy0xGwHFJScTUbKUyNJD-11" target="e0LHFHKpZSTuLWy_Eu2I-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cy0xGwHFJScTUbKUyNJD-11" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Data &lt;br&gt;Preprocessing&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="760" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cy0xGwHFJScTUbKUyNJD-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Cy0xGwHFJScTUbKUyNJD-18" target="e0LHFHKpZSTuLWy_Eu2I-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="720" y="411" />
+              <mxPoint x="720" y="411" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cy0xGwHFJScTUbKUyNJD-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="e0LHFHKpZSTuLWy_Eu2I-5" target="Cy0xGwHFJScTUbKUyNJD-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e0LHFHKpZSTuLWy_Eu2I-5" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Algorithms&lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="78" y="98.59" width="160" height="261.25" as="geometry" />
+        </mxCell>
+        <mxCell id="e0LHFHKpZSTuLWy_Eu2I-4" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;Logistic Regression&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="98" y="222.84" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="e0LHFHKpZSTuLWy_Eu2I-7" value="&lt;font face=&quot;Times New Roman&quot;&gt;Random Forest&lt;span style=&quot;white-space: pre; font-size: 14px;&quot;&gt;&#x9;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="98" y="291.84000000000003" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="e0LHFHKpZSTuLWy_Eu2I-8" value="&lt;font face=&quot;Times New Roman&quot;&gt;Decision Tree&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="98" y="152.84" width="120" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
